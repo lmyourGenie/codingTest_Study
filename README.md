@@ -5,4 +5,4 @@
 - 스터디 정리 내용은 아래 블로그에 정리해두었습니다.
 
 
-[velog 구경하기](velog.io/@imyourgenie)
+[velog 구경하기](https://velog.io/@imyourgenie)
